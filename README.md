@@ -4,7 +4,7 @@ I am passionate about building applications that educate, entertain and engage a
 
 I have developed multiple Unity projects using C# for multiple platforms such as VR, Android, WebGL and PC
 
-if your looking to hire a software developer, I would love to connect. 
+I am open for work, feel free to connect!
 
  📫 How to reach me: 
 <a target="_blank" href="https://eldonl.github.io/"><img src="https://img.shields.io/badge/-Portfolio-cyan" alt="portfolio"></a>
